@@ -2,6 +2,10 @@
 [![smithery badge](https://smithery.ai/badge/@kjozsa/git-mcp)](https://smithery.ai/server/@kjozsa/git-mcp)
 MCP server for managing Git operations on local repositories.
 
+<a href="https://glama.ai/mcp/servers/s9v9iezy1u">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/s9v9iezy1u/badge" alt="Git MCP server" />
+</a>
+
 ## Installation
 ### Installing via Smithery
 
@@ -108,3 +112,4 @@ python test_git_mcp.py
 
 # Test the MCP server (requires the git-mcp package to be installed)
 python test_mcp_server.py
+```
