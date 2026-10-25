@@ -1,5 +1,5 @@
 # Git MCP
-[![smithery badge](https://smithery.ai/badge/@kjozsa/git-mcp)](https://smithery.ai/server/@kjozsa/git-mcp)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.kjozsa/git-mcp)](https://lightnow.ai/servers/io.github.kjozsa/git-mcp)
 MCP server for managing Git operations on local repositories.
 
 ## Installation
